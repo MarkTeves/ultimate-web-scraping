@@ -666,4 +666,4 @@ It is very rare though to run into a website like that.  Ultimate Web Scraper To
 More Information
 ----------------
 
-Full documentation and more examples can be found in the '[docs](https://github.com/cubiclesoft/ultimate-web-scraper/tree/master/docs)' directory of this repository.
+Full documentation and more examples can be found in the '[docs](https://github.com/cubiclesoft/ultimate-web-scraper/tree/master/docs)' directory of this repository. 
